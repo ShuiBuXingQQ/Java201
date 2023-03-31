@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="futureloan" >
+    <listeners>
+        <listener class-name="com.shucai.app.listener.AllureScreenShotListener"></listener>
+<!--        <listener class-name="com.shucai.app.listener.ScreenShotListener"></listener>-->
+        <listener class-name="com.shucai.app.listener.RetryListener"></listener>
+    </listeners>
+
+<!--    <test name="app测试">-->
+<!--        <classes>-->
+<!--&lt;!&ndash;            <class name="com.shucai.app.cases.LoginCase"></class>&ndash;&gt;-->
+<!--&lt;!&ndash;            <class name="com.shucai.app.cases.QrcodeCase"></class>&ndash;&gt;-->
+<!--            <class name="com.shucai.app.cases.ShopCase"></class>-->
+<!--        </classes>-->
+<!--    </test>-->
+
+    <test name="web测试">
+        <classes>
+            <class name="com.shucai.web.cases.LoginCase"></class>
+        </classes>
+    </test>
+
+</suite>

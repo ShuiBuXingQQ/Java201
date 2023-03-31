@@ -1,0 +1,14 @@
+com\shucai\app\common\BasePage.class
+com\shucai\app\listener\ScreenShotListener.class
+com\shucai\app\cases\QrcodeCase.class
+com\shucai\app\page\ShopPage.class
+com\shucai\app\common\BaseCase.class
+com\shucai\app\page\HomePage.class
+com\shucai\app\page\MyHomePage.class
+com\shucai\app\page\SearchPage.class
+com\shucai\app\cases\LoginCase.class
+com\shucai\app\page\LoginPage.class
+com\shucai\app\common\Constants.class
+com\shucai\app\listener\AllureScreenShotListener.class
+com\shucai\app\page\QrcodePage.class
+com\shucai\app\cases\ShopCase.class

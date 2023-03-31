@@ -1,0 +1,1 @@
+{"uuid":"b909d357-2c93-4768-b5f8-fc27c13e62c5","name":"shucai_app_web","start":1678020148349,"stop":1678020253036,"children":["ffa4a418-95c5-442d-900b-c4f74569df6e"],"befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","start":1678020148382,"stop":1678020168534}]}

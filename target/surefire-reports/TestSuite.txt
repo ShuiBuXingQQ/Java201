@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 178.233 s <<< FAILURE! - in TestSuite
+testShopCase02(com.shucai.app.cases.ShopCase)  Time elapsed: 112.175 s  <<< FAILURE!
+java.lang.AssertionError: expected [1] but found [1]
+	at com.shucai.app.cases.ShopCase.testShopCase02(ShopCase.java:76)
+

@@ -1,0 +1,12 @@
+2023-03-31 16:05:39 INFO  BasePage:31 - By.xpath: //input[@id="u"]
+2023-03-31 16:05:39 INFO  BasePage:31 - By.xpath: //input[@id="p"]
+2023-03-31 16:05:39 INFO  BasePage:49 - By.xpath: //input[@value="登录"][@class="btn"]
+2023-03-31 16:05:59 INFO  BasePage:49 - By.linkText: 写信
+2023-03-31 16:06:17 ERROR BasePage:56 - 元素定位异常：chrome not reachable
+  (Session info: chrome=101.0.4951.54)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-6LGB19CD', ip: '192.168.31.42', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 101.0.4951.54, chrome: {chromedriverVersion: 101.0.4951.41 (93c720db8323..., userDataDir: C:\Users\GSC\AppData\Local\...}, goog:chromeOptions: {debuggerAddress: localhost:57355}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: c379e30ec3d551a52774f2bb67963656
+*** Element info: {Using=link text, value=写信}
