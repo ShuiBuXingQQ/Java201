@@ -1,1 +1,0 @@
-{"uuid":"ab24cff8-24e9-4c1b-9880-cdcc1ef2ec4c","name":"app测试","start":1678019177658,"stop":1678019354746,"children":["d6df178a-4dfc-44d2-80a2-4ad1a8776fd3","2bcbf86f-530a-4ba1-835c-742b1da41474"],"befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","start":1678019177686,"stop":1678019196364}]}
